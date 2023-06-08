@@ -1,3 +1,0 @@
-KjG Blau: #00ADBA
-
-Schriftart: 'Roboto', sans-serif;
